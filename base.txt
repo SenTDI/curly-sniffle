@@ -189,7 +189,7 @@ Cocs|Car|F|D
 Takemiti
 f71fa311e4ea68bb755922e8d2a8b241a01de3ce28d6d89dd4c7cf9eb56e90e3d51d2e5bac7172dcac8d3a0f87c1824de4dbfecceb5178e7221087b740cae646
 20211228
-0100
+0010
 Cocs|Car|F|D
 месяц ловял
 20211128
