@@ -385,7 +385,7 @@ Cocs|Car|F|D
 Etozhepain
 a228614f3d8cff59207cedb65982247186865c206a58d87dea790459badff57e9eb06e07ca4cdbb4f12c530579e08e69d09ae00e9761792ef6f124fff29dac42
 21211212
-0001
+0010
 Cocs|Car|F|D
-навсегда депозит
+навсегда рыба
 20211212
