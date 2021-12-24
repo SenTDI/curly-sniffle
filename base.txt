@@ -616,3 +616,11 @@ VadimkaNega
 Cocs|Car|F|D
 навсегда рыбалка
 20211224
+-
+theboneless
+46ad36c642e06598672228f9b572ec12fa89b25c1d63d9cab144cc0d048a2f7a50063806a6add6175b2f0e36666d45056d74ccec3758da224fe1b7c62fc5cd52
+20220125
+0010
+Cocs|Car|F|D
+Месяц рыбалка
+20211225
