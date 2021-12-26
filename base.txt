@@ -611,10 +611,10 @@ Cocs|Car|F|D
 -
 VadimkaNega
 8df7d4afe6f938fb3f45f0a9b8fe71d88c8f6337fcb20acb16e0bdee19a688a97d1bec4d6e423903de4f07b26d0f67c8aec6afb3053a98b174016b56b3974cae
-21771224
+19991224
 0010
 Cocs|Car|F|D
-навсегда рыбалка
+навсегда рыбалка: ушел на покой в бан  (вернул деньги) 
 20211224
 -
 theboneless
@@ -632,3 +632,11 @@ santiago686
 Cocs|Car|F|D
 Месяц рыбалка
 20211225
+-
+Jydani
+a5f41c3f03190e36a98118893dfc7cd979596d4e31bbd9223439b0c05f00cd4c77c17bb85b63e4a15496987240d8560646bfb32908a27dfe5d5da4fa541ce5de
+20220126
+0010
+Cocs|Car|F|D
+Месяц рыбалка
+20211226
