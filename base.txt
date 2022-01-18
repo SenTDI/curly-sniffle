@@ -760,3 +760,11 @@ Sinov
 Cocs|Car|F|D
 рыбалка месяц
 20220118
+-
+engineerrus
+d7d54dc8afaf39da2ea6e66ede9887eb63b57826171d0ed9ce59b79219aa857cdacebb20ef0b145567143eb8aa8e733ccd65d21fa2e204be12b6b0b5bcdc3912
+22220118
+0010
+Cocs|Car|F|D
+Депозит навсегда
+20220118
