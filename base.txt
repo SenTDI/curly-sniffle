@@ -1251,3 +1251,10 @@ Cocs|Car|F|D
 ловля тс на месяц
 20220402
 -
+deletantz
+7daf296bfbe3e1ea6b530ee4614d9755dabbf62bf2bdcd9c2ff1b81d28196030b0b3d661b9eff487005d77889896c8abfd30df675fcd65d617d19ac02e9ab854
+20220502
+0100
+Cocs|Car|F|D
+ловля тс на месяц
+20220402
