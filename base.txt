@@ -1290,3 +1290,11 @@ Ololoolya
 Cocs|Car|F|D
 ловля тс на месяц
 20220402
+-
+GEniG
+f1e11ee5832977c7acac2ed90c412779da878ef0c6fc022b0e4ddb0840faa9c03b285cc7a46cdfdfb1f3349c14696703847aff1d5b18793827eb1f71c184c6e7
+29220402
+0100
+Cocs|Car|F|D
+ловля тс на месяц
+20220402
