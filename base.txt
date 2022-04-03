@@ -699,10 +699,10 @@ Cocs|Car|F|D
 -
 PouyaQ
 c45eb748ceb202dbcba600ac7a1b1724759babd67f995f5025d1a171a73775f6793ff6790eb380806f01d7af1250745694d4c8ef1430f2538861f1236989fee6
-22220104
-0010
+29220104
+1111
 Cocs|Car|F|D
-рыбалка навсегда
+все навсегда
 20220104
 -
 I1nch
@@ -1296,7 +1296,7 @@ f1e11ee5832977c7acac2ed90c412779da878ef0c6fc022b0e4ddb0840faa9c03b285cc7a46cdfdf
 29220402
 1111
 Cocs|Car|F|D
-ловля тс на месяц
+все навсегда
 20220402
 -
 youngfake
